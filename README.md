@@ -1,4 +1,4 @@
-# Estudo-de-Niveis-de-Abstração-de-Linguagens
+# Estudo de Niveis de Abstração de Linguagens
 Esse é um repósito de estudo onde o objetivo é entender a fundo o nivel de abstração das linguagens
 
 - Binary Code 
